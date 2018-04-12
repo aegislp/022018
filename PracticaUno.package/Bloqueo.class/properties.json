@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Movimiento",
+	"category" : "PracticaUno",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Bloqueo",
+	"type" : "normal"
+}

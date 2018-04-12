@@ -1,0 +1,3 @@
+getters
+ultimoMovimiento
+	^ultimoMovimiento.
