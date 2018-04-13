@@ -7,7 +7,10 @@ testBloqueoContraGolpe
 	 
 	 
 	self assert: jugadorBloqueo energia = 100.
+	
+	jugadorBloqueo movimiento.
 	jugadorBloqueo calcularImpacto: movOponente.
+	
  	self assert: jugadorBloqueo energia = 100.
 
  

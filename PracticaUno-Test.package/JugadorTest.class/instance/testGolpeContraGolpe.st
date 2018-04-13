@@ -7,7 +7,10 @@ testGolpeContraGolpe
 	 
 	 
 	self assert: jugadorGolpe energia = 100.
+	
+	jugadorGolpe movimiento.
 	jugadorGolpe calcularImpacto: movOponente.
+	
  	self assert: jugadorGolpe energia = 80.
 
  

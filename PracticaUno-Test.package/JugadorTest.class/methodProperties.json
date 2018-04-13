@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"testGolpeContraGolpe" : "LuisMelo 4/13/2018 00:40",
+		"testGolpeContraGolpe" : "LuisMelo 4/13/2018 13:28",
 		"setUp" : "LuisMelo 4/13/2018 00:32",
-		"testGolpeContraBloqueo" : "LuisMelo 4/13/2018 00:39",
-		"testBloqueoContraBloqueo" : "LuisMelo 4/13/2018 09:09",
-		"testBloqueoContraGolpe" : "LuisMelo 4/13/2018 00:38"
+		"testGolpeContraBloqueo" : "LuisMelo 4/13/2018 13:28",
+		"testBloqueoContraBloqueo" : "LuisMelo 4/13/2018 13:26",
+		"testBloqueoContraGolpe" : "LuisMelo 4/13/2018 13:28"
 	},
 	"class" : { }
 }
