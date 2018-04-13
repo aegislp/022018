@@ -1,3 +1,3 @@
 as yet unclassified
 calcularContraBloqueo
-	^0.
+	self shouldBeImplemented.

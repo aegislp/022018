@@ -6,7 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"ultimoMovimiento"
+		"ultimoMovimiento",
+		"nombre",
+		"energia"
 	],
 	"name" : "Jugador",
 	"type" : "normal"

@@ -2,7 +2,9 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "PracticaUno",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"energia"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [

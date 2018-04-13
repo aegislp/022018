@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"calcularContraBloqueo" : "LuisMelo 4/12/2018 00:19",
-		"calcularImpacto:" : "LuisMelo 4/12/2018 00:36",
-		"calcularContraGolpe" : "LuisMelo 4/12/2018 00:24",
-		"calcularContraGolpe:" : "LuisMelo 4/11/2018 23:04",
-		"calcularContraBloqueo:" : "LuisMelo 4/11/2018 22:59"
+		"calcularImpacto:" : "LuisMelo 4/13/2018 00:47",
+		"calcularContraBloqueo" : "LuisMelo 4/13/2018 00:49",
+		"calcularContraGolpe" : "LuisMelo 4/12/2018 00:24"
 	},
-	"class" : { }
+	"class" : {
+		"calcularContraBloqueo" : "LuisMelo 4/13/2018 01:00"
+	}
 }

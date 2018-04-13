@@ -5,7 +5,14 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"jugadorUno",
+		"jugadorDos",
+		"golpe",
+		"bloqueo",
+		"jugadorGolpe",
+		"jugadorBloqueo"
+	],
 	"name" : "JugadorTest",
 	"type" : "normal"
 }

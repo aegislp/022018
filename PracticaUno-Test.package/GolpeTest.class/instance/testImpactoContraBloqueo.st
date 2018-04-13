@@ -5,4 +5,4 @@ testImpactoContraBloqueo
 	| golpe |
 	golpe:= Golpe new.
 	golpe energia:100.
-	self assert: (golpe calcularContraBloqueo ) = -10.
+	self assert: (golpe calcularContraBloqueo ) = 0.

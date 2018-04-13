@@ -1,7 +1,12 @@
 {
 	"instance" : {
-		"ultimoMovimiento" : "LuisMelo 4/11/2018 23:32",
-		"setMovimiento:" : "LuisMelo 4/11/2018 23:26"
+		"calcularImpacto:" : "LuisMelo 4/13/2018 00:55",
+		"movimiento" : "LuisMelo 4/13/2018 00:53",
+		"initialize" : "LuisMelo 4/13/2018 00:23",
+		"nombre:" : "LuisMelo 4/13/2018 00:13",
+		"updateEnergia:" : "LuisMelo 4/13/2018 00:56",
+		"energia" : "LuisMelo 4/13/2018 00:20",
+		"movimiento:" : "LuisMelo 4/13/2018 00:44"
 	},
 	"class" : { }
 }

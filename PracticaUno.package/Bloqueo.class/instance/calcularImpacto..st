@@ -1,3 +1,3 @@
-as yet unclassified
+execute
 calcularImpacto: aMov
-	^aMov calcularContraBloqueo: self energia.
+	^aMov calcularContraBloqueo.
