@@ -1,4 +1,6 @@
-as yet unclassified
+instance creation
 newWithEnergy: anInteger 
-	self new.
-	energia:= anInteger.
+	|mov|
+	mov:= self new.
+	mov energia:anInteger.
+	^mov.

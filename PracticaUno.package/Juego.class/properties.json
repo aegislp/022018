@@ -5,14 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"ultimoMovimiento",
-		"nombre",
-		"energia",
-		"movimientos",
-		"jugadas",
-		"checkpoints"
-	],
-	"name" : "Jugador",
+	"instvars" : [ ],
+	"name" : "Juego",
 	"type" : "normal"
 }

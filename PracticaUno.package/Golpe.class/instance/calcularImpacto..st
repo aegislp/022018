@@ -1,3 +1,3 @@
 execute
 calcularImpacto: aMov
-	^aMov calcularContraGolpe: self energia.
+	^aMov calcularContraGolpe.

@@ -1,11 +1,9 @@
 {
 	"instance" : {
+		"toString" : "LuisMelo 4/13/2018 12:29",
 		"calcularImpacto:" : "LuisMelo 4/13/2018 00:48",
 		"calcularContraBloqueo" : "LuisMelo 4/12/2018 00:16",
 		"calcularContraGolpe" : "LuisMelo 4/12/2018 00:18"
 	},
-	"class" : {
-		"calcularContraGolpe:" : "LuisMelo 4/13/2018 01:09",
-		"calcularContraBloqueo" : "LuisMelo 4/13/2018 01:01"
-	}
+	"class" : { }
 }

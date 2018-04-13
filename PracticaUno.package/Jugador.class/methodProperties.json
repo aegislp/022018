@@ -1,12 +1,16 @@
 {
 	"instance" : {
-		"calcularImpacto:" : "LuisMelo 4/13/2018 00:55",
-		"movimiento" : "LuisMelo 4/13/2018 00:53",
-		"initialize" : "LuisMelo 4/13/2018 00:23",
-		"nombre:" : "LuisMelo 4/13/2018 00:13",
+		"makeCheckPoint" : "LuisMelo 4/13/2018 13:04",
 		"updateEnergia:" : "LuisMelo 4/13/2018 00:56",
-		"energia" : "LuisMelo 4/13/2018 00:20",
-		"movimiento:" : "LuisMelo 4/13/2018 00:44"
+		"movimiento" : "LuisMelo 4/13/2018 11:45",
+		"movimiento:" : "LuisMelo 4/13/2018 00:44",
+		"nombre" : "LuisMelo 4/13/2018 11:59",
+		"jugadas" : "LuisMelo 4/13/2018 10:07",
+		"nombre:" : "LuisMelo 4/13/2018 00:13",
+		"initialize" : "LuisMelo 4/13/2018 12:50",
+		"jugadasToString" : "LuisMelo 4/13/2018 13:15",
+		"calcularImpacto:" : "LuisMelo 4/13/2018 12:51",
+		"energia" : "LuisMelo 4/13/2018 00:20"
 	},
 	"class" : { }
 }

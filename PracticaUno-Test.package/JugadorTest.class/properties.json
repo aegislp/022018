@@ -6,10 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"jugadorUno",
-		"jugadorDos",
-		"golpe",
-		"bloqueo",
 		"jugadorGolpe",
 		"jugadorBloqueo"
 	],
