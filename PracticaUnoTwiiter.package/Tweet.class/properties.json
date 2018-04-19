@@ -2,13 +2,16 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "PracticaUnoTwiiter",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"text"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"users",
-		"tweets"
+		"text",
+		"origin",
+		"user"
 	],
-	"name" : "Twitter",
+	"name" : "Tweet",
 	"type" : "normal"
 }

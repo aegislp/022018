@@ -1,14 +1,13 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "PracticaUnoTwiiter",
+	"category" : "Biblioteca",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"users",
-		"tweets"
+		"adaptable"
 	],
-	"name" : "Twitter",
+	"name" : "ExporterAdapter",
 	"type" : "normal"
 }

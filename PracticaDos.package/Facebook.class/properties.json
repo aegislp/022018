@@ -1,14 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
-	"category" : "PracticaUnoTwiiter",
+	"super" : "Publisher",
+	"category" : "PracticaDos",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"users",
-		"tweets"
+		"post"
 	],
-	"name" : "Twitter",
+	"name" : "Facebook",
 	"type" : "normal"
 }

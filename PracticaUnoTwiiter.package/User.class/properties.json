@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"name"
+		"name",
+		"tweets"
 	],
 	"name" : "User",
 	"type" : "normal"

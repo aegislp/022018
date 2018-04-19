@@ -1,9 +1,12 @@
 {
 	"instance" : {
-		"initialize" : "LuisMelo 4/16/2018 23:51",
-		"addUser:" : "LuisMelo 4/16/2018 23:54",
+		"removeUser:" : "LuisMelo 4/18/2018 00:30",
 		"users" : "LuisMelo 4/16/2018 23:50",
-		"usres" : "LuisMelo 4/16/2018 23:52"
+		"initialize" : "LuisMelo 4/18/2018 00:05",
+		"tweets" : "LuisMelo 4/18/2018 00:06",
+		"addTweet:" : "LuisMelo 4/18/2018 00:04",
+		"usres" : "LuisMelo 4/16/2018 23:52",
+		"addUser:" : "LuisMelo 4/16/2018 23:54"
 	},
 	"class" : { }
 }
