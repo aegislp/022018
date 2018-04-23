@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "PracticaTresDirectorio",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"vacio",
+		"conUnArchivo",
+		"conVariosArchivos",
+		"conSubdirectorios",
+		"config",
+		"grande",
+		"backup2015"
+	],
+	"name" : "DirectorioTest",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "PracticaTres-test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mixta",
+		"mixtaDos"
+	],
+	"name" : "TopografiaTest",
+	"type" : "normal"
+}

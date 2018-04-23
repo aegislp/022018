@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Topografia",
+	"category" : "PracticaTres",
+	"classinstvars" : [
+		"partes"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"partes"
+	],
+	"name" : "Mixta",
+	"type" : "normal"
+}

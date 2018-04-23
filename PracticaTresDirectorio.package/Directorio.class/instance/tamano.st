@@ -1,0 +1,3 @@
+accessing
+tamano
+	^-1.

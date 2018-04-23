@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "FileSystemNode",
+	"category" : "PracticaTresDirectorio",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombre",
+		"tamano",
+		"contenido",
+		"deepth",
+		"fecha"
+	],
+	"name" : "Directorio",
+	"type" : "normal"
+}

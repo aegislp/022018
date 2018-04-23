@@ -1,0 +1,3 @@
+accessing
+proporcionTierra
+	^1.
