@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "Exporter",
 	"category" : "Biblioteca",
 	"classinstvars" : [ ],
 	"pools" : [ ],

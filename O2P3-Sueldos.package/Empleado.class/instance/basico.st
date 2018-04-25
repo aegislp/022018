@@ -1,0 +1,3 @@
+accessing
+basico
+	^0.

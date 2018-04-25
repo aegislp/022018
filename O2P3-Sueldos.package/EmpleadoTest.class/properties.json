@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "O2P3-Sueldos",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Panta"
+	],
+	"instvars" : [
+		"empleadoPlanta",
+		"empleadoPasante",
+		"empleadoTemporalConHijos",
+		"empleadoTemporalSinHijos"
+	],
+	"name" : "EmpleadoTest",
+	"type" : "normal"
+}

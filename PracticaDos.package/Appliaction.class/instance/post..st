@@ -1,3 +1,3 @@
-Accessing
+accessing
 post:aString
-	self publishers do:[:publisher| publisher post: aString].
+	 publisher post: aString.

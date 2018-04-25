@@ -1,14 +1,15 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
-	"category" : "PracticaDos",
+	"super" : "Empleado",
+	"category" : "O2P3-Sueldos",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"publishers",
-		"publisher"
+		"hijos",
+		"basico",
+		"asignacionHijos"
 	],
-	"name" : "Appliaction",
+	"name" : "Planta",
 	"type" : "normal"
 }

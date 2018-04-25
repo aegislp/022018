@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Publisher",
+	"super" : "Object",
 	"category" : "PracticaDos",
 	"classinstvars" : [ ],
 	"pools" : [ ],

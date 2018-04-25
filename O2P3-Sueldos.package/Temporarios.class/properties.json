@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Empleado",
+	"category" : "O2P3-Sueldos",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"horas",
+		"base",
+		"basico",
+		"asignacionHijos",
+		"hijos"
+	],
+	"name" : "Temporarios",
+	"type" : "normal"
+}
