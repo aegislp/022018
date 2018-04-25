@@ -1,0 +1,3 @@
+accesing
+toString
+	^self subclassResponsibility.

@@ -1,0 +1,3 @@
+printing
+printNameJson
+	 ^'"',self toString,'",'.

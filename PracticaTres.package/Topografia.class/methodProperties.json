@@ -1,7 +1,14 @@
 {
 	"instance" : {
+		"printContent" : "LuisMelo 4/23/2018 10:14",
+		"printJsonOn:" : "LuisMelo 4/23/2018 11:06",
+		"equalTo:" : "LuisMelo 4/21/2018 15:08",
 		"distribucionEqualTo:" : "LuisMelo 4/21/2018 14:26",
-		"equalTo:" : "LuisMelo 4/21/2018 15:08"
+		"printNameJson" : "LuisMelo 4/23/2018 09:56",
+		"printJsonOn:indentation:" : "LuisMelo 4/23/2018 11:21",
+		"printOn:" : "LuisMelo 4/23/2018 09:29",
+		"toString" : "LuisMelo 4/23/2018 09:51",
+		"printAsJsonOn:" : "LuisMelo 4/23/2018 11:21"
 	},
 	"class" : { }
 }
