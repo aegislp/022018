@@ -1,3 +1,0 @@
-printing
-printNameJson
-	 ^'"',self toString,'",'.

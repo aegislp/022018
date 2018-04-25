@@ -1,3 +1,3 @@
-printing
+printing format
 printJsonOn: aStream
-	^self printJsonOn: aStream indentation: 4. 
+	self printJsonOn: aStream indentation: 0
