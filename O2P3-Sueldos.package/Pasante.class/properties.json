@@ -1,14 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
-	"category" : "PracticaDos",
+	"super" : "Empleado",
+	"category" : "O2P3-Sueldos",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"publishers",
-		"publisher"
+		"horas",
+		"base"
 	],
-	"name" : "Appliaction",
+	"name" : "Pasante",
 	"type" : "normal"
 }

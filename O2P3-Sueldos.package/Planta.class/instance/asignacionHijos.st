@@ -1,0 +1,3 @@
+accessing
+asignacionHijos
+	^hijos * asignacionHijos.

@@ -1,3 +1,3 @@
 initialization
 initialize
-	publishers := Set new.
+	publisher := Facebook new.
