@@ -1,0 +1,3 @@
+printing
+toJson 
+	^'{"',self toString,'": ['.

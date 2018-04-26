@@ -1,12 +1,17 @@
 {
 	"instance" : {
-		"equalToMixta:" : "LuisMelo 4/21/2018 15:03",
-		"at:" : "LuisMelo 4/21/2018 15:04",
-		"distribucionEqualTo:" : "LuisMelo 4/21/2018 14:49",
-		"initialize" : "LuisMelo 4/21/2018 12:54",
+		"toJson" : "LuisMelo 4/25/2018 14:15",
 		"partes" : "LuisMelo 4/21/2018 13:04",
+		"at:" : "LuisMelo 4/21/2018 15:04",
+		"printJsonOn:indentation:" : "LuisMelo 4/25/2018 14:16",
+		"initialize" : "LuisMelo 4/21/2018 12:54",
 		"proporcionTierra" : "LuisMelo 4/21/2018 14:01",
-		"proporcionAgua" : "LuisMelo 4/21/2018 14:01"
+		"proporcionAgua" : "LuisMelo 4/21/2018 14:01",
+		"distribucionEqualTo:" : "LuisMelo 4/21/2018 14:49",
+		"toIdent" : "LuisMelo 4/25/2018 14:15",
+		"toString" : "LuisMelo 4/23/2018 09:53",
+		"printOn:indentation:" : "LuisMelo 4/25/2018 14:22",
+		"equalToMixta:" : "LuisMelo 4/21/2018 15:03"
 	},
 	"class" : {
 		"new:and:and:and:" : "LuisMelo 4/21/2018 12:56"
