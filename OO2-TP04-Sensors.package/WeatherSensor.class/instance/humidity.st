@@ -1,0 +1,3 @@
+sensing
+humidity
+	self subclassResponsibility.

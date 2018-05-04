@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WeatherSensor",
+	"category" : "OO2-TP04-Sensors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"broker",
+		"station"
+	],
+	"name" : "ProxyStation",
+	"type" : "normal"
+}

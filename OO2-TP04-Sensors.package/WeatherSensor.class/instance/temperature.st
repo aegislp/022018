@@ -1,0 +1,3 @@
+sensing
+temperature
+	self subclassResponsibility.
