@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "OO2-TP4-FileManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombre",
+		"extension",
+		"permisos",
+		"aByte",
+		"tamanio"
+	],
+	"name" : "FileNode",
+	"type" : "normal"
+}

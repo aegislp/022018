@@ -1,0 +1,3 @@
+accessors
+tamanio
+	self subclassResponsibility.

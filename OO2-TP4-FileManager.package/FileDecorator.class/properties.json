@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FileNode",
+	"category" : "OO2-TP4-FileManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"component"
+	],
+	"name" : "FileDecorator",
+	"type" : "normal"
+}
