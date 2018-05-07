@@ -1,0 +1,3 @@
+accessing
+addComment: aComment
+	^self.

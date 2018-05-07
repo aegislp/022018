@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "StateItem",
+	"category" : "OO2-TP5-ToDoList",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"context"
+	],
+	"name" : "ItemPending",
+	"type" : "normal"
+}

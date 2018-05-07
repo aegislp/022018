@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "OO2-TP5-ToDoList",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"state",
+		"name",
+		"comments",
+		"startTime",
+		"finishedTime"
+	],
+	"name" : "ToDoItem",
+	"type" : "normal"
+}

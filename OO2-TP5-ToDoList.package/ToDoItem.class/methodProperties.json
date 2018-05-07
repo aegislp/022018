@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"setStartTime:" : "LuisMelo 5/7/2018 14:26",
+		"getStartTime" : "LuisMelo 5/7/2018 14:28",
+		"togglePause" : "LuisMelo 5/7/2018 13:29",
+		"start" : "LuisMelo 5/7/2018 13:29",
+		"name:" : "LuisMelo 5/7/2018 13:27",
+		"initialize" : "LuisMelo 5/7/2018 14:26",
+		"finish" : "LuisMelo 5/7/2018 13:29",
+		"addCommentAllow:" : "LuisMelo 5/7/2018 14:00",
+		"getFinishedTime" : "LuisMelo 5/7/2018 14:40",
+		"addComment:" : "LuisMelo 5/7/2018 13:30",
+		"changeState:" : "LuisMelo 5/7/2018 13:27",
+		"workedTime" : "LuisMelo 5/7/2018 13:30",
+		"setFinishTime:" : "LuisMelo 5/7/2018 14:38"
+	},
+	"class" : {
+		"name:" : "LuisMelo 5/7/2018 13:27"
+	}
+}
