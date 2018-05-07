@@ -1,0 +1,3 @@
+accessors
+nombre
+	self subclassResponsibility.

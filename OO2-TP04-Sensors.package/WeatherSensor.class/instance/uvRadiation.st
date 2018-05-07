@@ -1,0 +1,3 @@
+sensing
+uvRadiation
+	self subclassResponsibility.

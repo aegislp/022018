@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"temperature" : "LuisMelo 5/4/2018 01:14",
+		"broker:" : "LuisMelo 5/4/2018 01:28",
+		"uvRadiation" : "LuisMelo 5/4/2018 01:14",
+		"humidity" : "LuisMelo 5/4/2018 01:11",
+		"station" : "LuisMelo 5/4/2018 01:09",
+		"station:" : "LuisMelo 5/4/2018 01:08"
+	},
+	"class" : {
+		"for:" : "LuisMelo 5/4/2018 01:07",
+		"for:with:" : "LuisMelo 5/4/2018 01:24"
+	}
+}

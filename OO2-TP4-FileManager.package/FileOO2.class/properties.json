@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "FileNode",
+	"category" : "OO2-TP4-FileManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fechaCreacion",
+		"fechaModificacion"
+	],
+	"name" : "FileOO2",
+	"type" : "normal"
+}

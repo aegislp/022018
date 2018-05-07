@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FileDecorator",
+	"category" : "OO2-TP4-FileManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DecoratorPermisos",
+	"type" : "normal"
+}
