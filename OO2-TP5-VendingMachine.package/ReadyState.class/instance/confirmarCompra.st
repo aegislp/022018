@@ -7,7 +7,8 @@ desea hacer la compra. La máquina actualiza el stock y el dinero."
 	theContext := self context.
 	
 	theContext stock: (theContext stock - theContext items ).
-	theContext change: (theContext  change - theContext montoIngresado).
+	theContext change: (theContext  change - ( theContext montoIngresado - theContext totalPrice )) .
+	theContext money: (theContext money + theContext totalPrice).
 	 
 	
 	self changeState: theContext  state: (WaitCantState for: theContext ).
