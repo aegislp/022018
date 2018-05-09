@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"ingresar:" : "LuisMelo 5/9/2018 11:55",
+		"confirmarCompra" : "LuisMelo 5/9/2018 11:56",
+		"comprar:" : "LuisMelo 5/9/2018 13:38",
+		"cancelarCompra" : "LuisMelo 5/9/2018 11:56",
+		"dineroRestante" : "LuisMelo 5/9/2018 11:56",
+		"changeState:state:" : "LuisMelo 5/9/2018 11:57",
+		"poseeVuelto" : "LuisMelo 5/9/2018 11:56"
+	},
+	"class" : { }
+}

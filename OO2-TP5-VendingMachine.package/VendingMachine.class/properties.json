@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "OO2-TP5-VendingMachine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stock",
+		"price",
+		"change",
+		"montoIngresado",
+		"state",
+		"items",
+		"money",
+		"totalPrice"
+	],
+	"name" : "VendingMachine",
+	"type" : "normal"
+}

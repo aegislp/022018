@@ -1,0 +1,28 @@
+{
+	"instance" : {
+		"initialize" : "LuisMelo 5/9/2018 14:34",
+		"price" : "LuisMelo 5/9/2018 12:38",
+		"price:" : "LuisMelo 5/9/2018 12:38",
+		"money:" : "LuisMelo 5/9/2018 14:33",
+		"dineroRestante" : "LuisMelo 5/9/2018 14:13",
+		"money" : "LuisMelo 5/9/2018 14:33",
+		"montoIngresado" : "LuisMelo 5/9/2018 14:01",
+		"totalPrice" : "LuisMelo 5/9/2018 14:34",
+		"items:" : "LuisMelo 5/9/2018 14:36",
+		"montoIngresado:" : "LuisMelo 5/9/2018 14:01",
+		"items" : "LuisMelo 5/9/2018 14:26",
+		"comprar:" : "LuisMelo 5/9/2018 13:38",
+		"stock:" : "LuisMelo 5/9/2018 12:38",
+		"totalPrice:" : "LuisMelo 5/9/2018 14:34",
+		"change" : "LuisMelo 5/9/2018 12:38",
+		"state" : "LuisMelo 5/9/2018 14:01",
+		"poseeVuelto" : "LuisMelo 5/9/2018 12:55",
+		"ingresar:" : "LuisMelo 5/9/2018 12:49",
+		"change:" : "LuisMelo 5/9/2018 12:38",
+		"changeState:" : "LuisMelo 5/9/2018 13:35",
+		"stock" : "LuisMelo 5/9/2018 12:38"
+	},
+	"class" : {
+		"stock:price:change:" : "LuisMelo 5/9/2018 12:42"
+	}
+}

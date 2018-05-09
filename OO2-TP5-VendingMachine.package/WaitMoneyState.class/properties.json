@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "StateMachine",
+	"category" : "OO2-TP5-VendingMachine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"context"
+	],
+	"name" : "WaitMoneyState",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "OO2-TP5-VendingMachine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"machine",
+		"machineWithChange"
+	],
+	"name" : "VendingMachineTest",
+	"type" : "normal"
+}
