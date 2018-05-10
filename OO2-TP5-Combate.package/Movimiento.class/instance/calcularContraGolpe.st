@@ -1,0 +1,3 @@
+calculating
+calcularContraGolpe
+	self subclassResponsibility.

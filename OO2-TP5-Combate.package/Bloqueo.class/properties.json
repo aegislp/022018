@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Movimiento",
+	"category" : "OO2-TP5-Combate",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"energia"
+	],
+	"name" : "Bloqueo",
+	"type" : "normal"
+}

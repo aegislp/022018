@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"calcularImpacto:" : "LuisMelo 5/10/2018 12:26",
+		"energia:" : "LuisMelo 5/10/2018 12:22",
+		"initialize" : "LuisMelo 5/10/2018 13:35",
+		"nombre:" : "LuisMelo 5/10/2018 12:08",
+		"strategy:" : "LuisMelo 5/10/2018 13:31",
+		"energia" : "LuisMelo 5/10/2018 12:22",
+		"strategy" : "LuisMelo 5/10/2018 13:31",
+		"jugadaParaTurno:" : "LuisMelo 5/10/2018 13:32",
+		"nombre" : "LuisMelo 5/10/2018 12:08"
+	},
+	"class" : {
+		"new:strategy:" : "LuisMelo 5/10/2018 13:31",
+		"new:" : "LuisMelo 5/10/2018 13:33"
+	}
+}

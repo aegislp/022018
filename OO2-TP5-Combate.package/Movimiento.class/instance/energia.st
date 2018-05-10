@@ -1,0 +1,3 @@
+accessors
+energia
+	self subclassResponsibility.

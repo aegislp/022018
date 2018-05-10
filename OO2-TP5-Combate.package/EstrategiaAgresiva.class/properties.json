@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "EstrategiaCombate",
+	"category" : "OO2-TP5-Combate",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"movimientos"
+	],
+	"name" : "EstrategiaAgresiva",
+	"type" : "normal"
+}
