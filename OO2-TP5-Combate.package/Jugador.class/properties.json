@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "OO2-TP5-Combate",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"movimientos",
+		"ultimoMovimiento",
+		"energia",
+		"nombre",
+		"strategy"
+	],
+	"name" : "Jugador",
+	"type" : "normal"
+}

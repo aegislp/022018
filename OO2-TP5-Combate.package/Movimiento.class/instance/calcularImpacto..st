@@ -1,0 +1,3 @@
+calculating
+calcularImpacto:aMov
+	self subclassResponsibility.

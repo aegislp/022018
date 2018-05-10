@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "EstrategiaCombate",
+	"category" : "OO2-TP5-Combate",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"golpe",
+		"bloqueo",
+		"ultimo"
+	],
+	"name" : "EstrategiaGolpeBloqueo",
+	"type" : "normal"
+}
