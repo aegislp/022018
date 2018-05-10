@@ -1,7 +1,7 @@
 initialization
-jugadataParaTurno: unTurno
+jugadaParaTurno: unTurno
 	
-	(ultimo equalTo: golpe) ifTrue:[
+	(ultimo = golpe) ifTrue:[
 		ultimo:= bloqueo.	
 	] ifFalse:[ ultimo:= bloqueo].
 	^ultimo.

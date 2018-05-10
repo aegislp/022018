@@ -13,3 +13,5 @@ continuar:= (unJugador energia > 0) & ( otroJugador energia > 0 ) .
 		vuelta:= vuelta + 1.	
 		continuar:= (unJugador energia > 0) & ( otroJugador energia > 0 ) & ( vuelta <= 10 ) .	
  ].
+
+ self informarGanadorEntre: unJugador  y: otroJugador. 	

@@ -1,14 +1,20 @@
 {
 	"instance" : {
-		"calcularImpacto:" : "LuisMelo 5/10/2018 12:26",
-		"energia:" : "LuisMelo 5/10/2018 12:22",
-		"initialize" : "LuisMelo 5/10/2018 13:35",
-		"nombre:" : "LuisMelo 5/10/2018 12:08",
-		"strategy:" : "LuisMelo 5/10/2018 13:31",
-		"energia" : "LuisMelo 5/10/2018 12:22",
-		"strategy" : "LuisMelo 5/10/2018 13:31",
+		"makeCheckPoint" : "LuisMelo 4/13/2018 13:04",
 		"jugadaParaTurno:" : "LuisMelo 5/10/2018 13:32",
-		"nombre" : "LuisMelo 5/10/2018 12:08"
+		"movimiento" : "LuisMelo 4/13/2018 11:45",
+		"strategy" : "LuisMelo 5/10/2018 13:31",
+		"updateEnergia:" : "LuisMelo 4/13/2018 00:56",
+		"energia:" : "LuisMelo 5/10/2018 12:22",
+		"movimiento:" : "LuisMelo 4/13/2018 00:44",
+		"nombre" : "LuisMelo 5/10/2018 12:08",
+		"jugadas" : "LuisMelo 4/13/2018 10:07",
+		"nombre:" : "LuisMelo 5/10/2018 12:08",
+		"initialize" : "LuisMelo 5/10/2018 13:35",
+		"jugadasToString" : "LuisMelo 4/13/2018 13:15",
+		"calcularImpacto:" : "LuisMelo 5/10/2018 12:26",
+		"strategy:" : "LuisMelo 5/10/2018 13:31",
+		"energia" : "LuisMelo 5/10/2018 12:22"
 	},
 	"class" : {
 		"new:strategy:" : "LuisMelo 5/10/2018 13:31",

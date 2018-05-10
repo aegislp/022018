@@ -1,3 +1,3 @@
 as yet unclassified
-jugadataParaTurno: unTurno
+jugadaParaTurno: unTurno
 	self subclassResponsibility.
