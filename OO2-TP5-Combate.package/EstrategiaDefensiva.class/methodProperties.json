@@ -1,4 +1,7 @@
 {
-	"instance" : { },
+	"instance" : {
+		"initialize" : "LuisMelo 5/10/2018 13:59",
+		"jugadataParaTurno:" : "LuisMelo 5/10/2018 14:08"
+	},
 	"class" : { }
 }
