@@ -5,5 +5,6 @@ for: aContext
 	state:= self new.
 	
 	state context: aContext.
+	aContext resetMachine.
 	
 	^state.		

@@ -6,12 +6,14 @@ compra, false en caso contrario."
 	|theContext price mount mountOk |
 	
 	theContext := self context.
+	theContext display: 'ingresar'.
 	price:= theContext price.
 	mount:= theContext montoIngresado + unaMoneda.
-	mountOk := mount >= price.
+	mountOk := mount >= theContext totalPrice.
 	
 	theContext montoIngresado: mount.
-	mountOk ifTrue: [ self changeState: theContext  state: (ReadyState for: theContext ).  ].
+	
+	mountOk ifTrue: [ theContext display: 'ok'. self changeState: theContext  state: (ReadyState for: theContext ).  ] ifFalse:[theContext display: 'no'].
 	
 	^mountOk. 
 	 

@@ -1,9 +1,4 @@
 {
-	"instance" : {
-		"initialize" : "LuisMelo 5/4/2018 00:17",
-		"numberOfFiles" : "LuisMelo 5/4/2018 00:20",
-		"addFile:" : "LuisMelo 5/4/2018 00:18",
-		"files" : "LuisMelo 5/4/2018 00:14"
-	},
+	"instance" : { },
 	"class" : { }
 }

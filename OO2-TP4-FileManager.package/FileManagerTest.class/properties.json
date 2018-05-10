@@ -1,14 +1,11 @@
 {
 	"commentStamp" : "",
 	"super" : "TestCase",
-	"category" : "OO2-TP4-FileManager",
+	"category" : "OO2-TP4-FIleManager",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"fileManager",
-		"file"
-	],
+	"instvars" : [ ],
 	"name" : "FileManagerTest",
 	"type" : "normal"
 }
