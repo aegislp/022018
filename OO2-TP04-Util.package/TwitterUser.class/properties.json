@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TwUser",
+	"category" : "OO2-TP04-Util",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"screenName",
+		"name",
+		"followers"
+	],
+	"name" : "TwitterUser",
+	"type" : "normal"
+}

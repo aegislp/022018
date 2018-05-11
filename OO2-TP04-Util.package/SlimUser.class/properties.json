@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TwUser",
+	"category" : "OO2-TP04-Util",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"screenName",
+		"sujetoReal"
+	],
+	"name" : "SlimUser",
+	"type" : "normal"
+}
