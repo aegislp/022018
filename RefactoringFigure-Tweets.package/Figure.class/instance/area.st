@@ -1,0 +1,3 @@
+calculations
+area
+	^self subclassResponsibility.

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "ArturoZambrano 2/15/2014 23:05",
+	"super" : "Object",
+	"category" : "RefactoringFigure-Tweets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"bases"
+	],
+	"instvars" : [
+		"filename",
+		"hashtag",
+		"tweets"
+	],
+	"name" : "TweetBase",
+	"type" : "normal"
+}

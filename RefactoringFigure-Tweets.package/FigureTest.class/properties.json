@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "RefactoringFigure-Tweets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"circulo",
+		"triangulo",
+		"cuadrado",
+		"ancho"
+	],
+	"name" : "FigureTest",
+	"type" : "normal"
+}

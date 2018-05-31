@@ -1,0 +1,37 @@
+{
+	"instance" : {
+		"initialize" : "ArturoZambrano 10/28/2016 18:04",
+		"id_str" : "RosarioSM 1/23/2014 11:13",
+		"source" : "RosarioSM 1/23/2014 11:14",
+		"retweet_count:" : "RosarioSM 1/23/2014 11:13",
+		"coordinatePoint" : "ArturoZambrano 4/18/2014 17:50",
+		"user" : "RosarioSM 1/22/2014 16:09",
+		"favorite_count" : "ArturoZambrano 5/9/2014 23:33",
+		"text:" : "ArturoZambrano 1/16/2014 12:48",
+		"coordinates" : "ArturoZambrano 4/5/2014 18:19",
+		"user:" : "RosarioSM 1/22/2014 16:09",
+		"includesSubstring:" : "RosarioSantaMarina 8/29/2014 13:17",
+		"hour24" : "RosarioSantaMarina 6/30/2014 15:57",
+		"<=" : "RosarioSantaMarina 3/18/2014 14:07",
+		"adjustTimestamp:" : "ArturoZambrano 4/17/2014 17:51",
+		"timestamp" : "ArturoZambrano 4/15/2014 22:42",
+		"coordinates:" : "ArturoZambrano 4/18/2014 17:54",
+		"id_str:" : "RosarioSM 1/23/2014 11:13",
+		"created_at" : "RosarioSantaMarina 3/6/2014 12:53",
+		"hashtags:" : "RosarioSantaMarina 2/19/2014 13:59",
+		"hashtags" : "RosarioSantaMarina 5/5/2014 13:39",
+		"place" : "RosarioSantaMarina 4/8/2014 15:52",
+		"hash" : "RosarioSantaMarina 3/18/2014 16:43",
+		"text" : "ArturoZambrano 1/16/2014 12:48",
+		"countryCode" : "RosarioSantaMarina 9/12/2014 16:14",
+		"created_at:" : "RosarioSantaMarina 3/6/2014 12:53",
+		"retweet_count" : "RosarioSM 1/23/2014 11:13",
+		"=" : "RosarioSantaMarina 3/18/2014 16:46",
+		"monthFrom:" : "ArturoZambrano 4/15/2014 14:54",
+		"source:" : "RosarioSM 1/23/2014 11:14",
+		"printOn:" : "ArturoZambrano 2/12/2014 14:50"
+	},
+	"class" : {
+		"new" : "DavidGomez 8/18/2015 17:54"
+	}
+}

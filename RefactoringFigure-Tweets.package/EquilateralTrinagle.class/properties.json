@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Figure",
+	"category" : "RefactoringFigure-Tweets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EquilateralTrinagle",
+	"type" : "normal"
+}

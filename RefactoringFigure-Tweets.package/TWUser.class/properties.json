@@ -1,0 +1,25 @@
+{
+	"commentStamp" : "ArturoZambrano 3/22/2014 21:56",
+	"super" : "Object",
+	"category" : "RefactoringFigure-Tweets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"id_str",
+		"screen_name",
+		"followers_count",
+		"friends_count",
+		"friends",
+		"followers",
+		"profile_image_url",
+		"lang",
+		"time_zone",
+		"statuses_count",
+		"location",
+		"profileFormPicture"
+	],
+	"name" : "TWUser",
+	"type" : "normal"
+}

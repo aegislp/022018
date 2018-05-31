@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "ArturoZambrano 2/15/2014 23:12",
+	"super" : "Object",
+	"category" : "RefactoringFigure-Tweets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"id_str",
+		"retweet_count",
+		"source",
+		"user",
+		"hashtags",
+		"created_at",
+		"in_reply_to_status_id_str",
+		"coordinates",
+		"favorite_count",
+		"place"
+	],
+	"name" : "TWTweet",
+	"type" : "normal"
+}
