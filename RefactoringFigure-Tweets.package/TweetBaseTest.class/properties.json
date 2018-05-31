@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "RefactoringFigure-Tweets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"base",
+		"u1",
+		"u2",
+		"u3"
+	],
+	"name" : "TweetBaseTest",
+	"type" : "normal"
+}
