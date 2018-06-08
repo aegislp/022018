@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "STTutTodoApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"userName",
+		"email",
+		"tasks",
+		"password"
+	],
+	"name" : "StUser",
+	"type" : "normal"
+}

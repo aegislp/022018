@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "STTutTodoApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"completed",
+		"deadline",
+		"taskDescription",
+		"id",
+		"taskName"
+	],
+	"name" : "StTask",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "STTutTodoApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"menuComponent",
+		"listComponent"
+	],
+	"name" : "StRootComponent",
+	"type" : "normal"
+}

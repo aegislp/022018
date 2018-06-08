@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"initialize" : "LuisMelo 6/8/2018 14:05",
+		"menuComponent" : "LuisMelo 6/8/2018 10:06",
+		"initializeMenuComponent" : "LuisMelo 6/8/2018 14:05",
+		"menuComponent:" : "LuisMelo 6/8/2018 10:06",
+		"renderContentOn:" : "LuisMelo 6/8/2018 10:04",
+		"children" : "LuisMelo 6/8/2018 13:43",
+		"listComponent:" : "LuisMelo 6/8/2018 10:08",
+		"listComponent" : "LuisMelo 6/8/2018 10:08"
+	},
+	"class" : {
+		"canBeRoot" : "LuisMelo 6/7/2018 14:35"
+	}
+}

@@ -1,0 +1,3 @@
+rendering
+canBeRoot
+	^true
