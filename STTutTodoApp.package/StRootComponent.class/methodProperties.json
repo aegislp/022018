@@ -1,13 +1,23 @@
 {
 	"instance" : {
-		"initialize" : "LuisMelo 6/8/2018 14:05",
-		"menuComponent" : "LuisMelo 6/8/2018 10:06",
-		"initializeMenuComponent" : "LuisMelo 6/8/2018 14:05",
-		"menuComponent:" : "LuisMelo 6/8/2018 10:06",
+		"initializeMenuComponent" : "LuisMelo 6/13/2018 13:51",
 		"renderContentOn:" : "LuisMelo 6/8/2018 10:04",
-		"children" : "LuisMelo 6/8/2018 13:43",
+		"children" : "LuisMelo 6/12/2018 14:55",
+		"listComponent" : "LuisMelo 6/8/2018 10:08",
+		"taskEditor:" : "LuisMelo 6/14/2018 14:11",
+		"editTask:" : "LuisMelo 6/14/2018 14:32",
+		"initialize" : "LuisMelo 6/14/2018 14:50",
+		"menuComponent:" : "LuisMelo 6/8/2018 10:06",
+		"initializeListComponent" : "LuisMelo 6/13/2018 14:03",
 		"listComponent:" : "LuisMelo 6/8/2018 10:08",
-		"listComponent" : "LuisMelo 6/8/2018 10:08"
+		"menuComponent" : "LuisMelo 6/8/2018 10:06",
+		"showCompletedTasks" : "LuisMelo 6/13/2018 13:49",
+		"showAllTasks" : "LuisMelo 6/13/2018 13:48",
+		"taskEditor" : "LuisMelo 6/14/2018 14:11",
+		"renderTask:asRowOn:" : "LuisMelo 6/14/2018 14:43",
+		"showMissedTasks" : "LuisMelo 6/13/2018 13:49",
+		"showPendingTasks" : "LuisMelo 6/13/2018 13:48",
+		"testTasks" : "LuisMelo 6/13/2018 14:04"
 	},
 	"class" : {
 		"canBeRoot" : "LuisMelo 6/7/2018 14:35"

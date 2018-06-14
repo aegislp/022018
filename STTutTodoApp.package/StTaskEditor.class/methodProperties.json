@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"task:" : "LuisMelo 6/14/2018 13:41",
+		"initialize" : "LuisMelo 6/14/2018 13:41",
+		"renderDateInputOn:" : "LuisMelo 6/14/2018 13:52",
+		"renderContentOn:" : "LuisMelo 6/14/2018 13:42",
+		"renderDescriptionInputOn:" : "LuisMelo 6/14/2018 13:52",
+		"renderButtonsOn:" : "LuisMelo 6/14/2018 14:02",
+		"renderNameInputOn:" : "LuisMelo 6/14/2018 13:51",
+		"renderCompletedSelectionOn:" : "LuisMelo 6/14/2018 14:01",
+		"task" : "LuisMelo 6/14/2018 13:41"
+	},
+	"class" : { }
+}

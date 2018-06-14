@@ -6,11 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"items",
-		"filterBlock",
-		"sortBlock",
-		"renderItemBlock"
+		"task"
 	],
-	"name" : "StListComponent",
+	"name" : "StTaskEditor",
 	"type" : "normal"
 }
