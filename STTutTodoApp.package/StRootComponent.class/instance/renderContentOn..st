@@ -1,10 +1,14 @@
 rendering
 renderContentOn: html
- "I render everything by calling html"
-	html heading: 'ToDo-List'.
-	html div
-		class: 'menu';
-		with: self menuComponent.
-	html div
-		class: 'list';
-		with: self listComponent.
+ 
+ html div
+  class: 'generic';
+  with:[
+   html heading: 'ToDo-List of ', self session user userName.
+   html div
+    class: 'menu';
+    with: self menuComponent.
+   html div
+    class: 'list';
+    id: 'list';
+    with: self listComponent].
